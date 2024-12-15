@@ -1,0 +1,6 @@
+numpy
+pydub
+av
+streamlit
+twilio
+streamlit-webrtc
